@@ -39,10 +39,4 @@ I work with Swift, SwiftUI and UIKit, with a strong focus on clean architecture 
 
 ---
 
-### Projects
-
-*Coming soon*
-
----
-
   Built with Swift ❤️
